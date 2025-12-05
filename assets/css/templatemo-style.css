@@ -452,7 +452,7 @@ button:hover {
 }
 
 .service-item .fourth-service-icon {
-    background-image: url(../images/fourth-white-icon.png);
+    background-image: url(../images/topFaramis.jpg);
 }
 
 /* Optional hover effects */
@@ -469,7 +469,7 @@ button:hover {
 }
 
 .service-item:hover .fourth-service-icon {
-    background-image: url(../images/fourth-main-icon.png);
+    background-image: url(../images/topFaramis.jpg);
 }
 
 
